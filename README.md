@@ -1,6 +1,6 @@
 # brianscherrypy
 
-My new project
+My new project thing
 
 ## Setting up the environment
 
